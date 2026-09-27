@@ -10,11 +10,11 @@ print(name)
 # Output: John Doe
 
 # Updating the value of a variable
+# To update the value of a variable, we can 
+# simply assign a new value to it using the assignment operator (=).
 name = "Jane Smith"
 print(name)
 # Output: Jane Smith
-
-
 
 # NOTE:
 # Lines of code with hashtags (#)
